@@ -1,8 +1,14 @@
 # Disaster Response Pipeline Project
 
-### Instructions:
+### Summary:
 
 I've gained and developed my data engineering abilities in this course, which will increase my possibilities and potential as a data scientist. In order to create a model for an API that categorizes catastrophe messages, I'll use these abilities in this project to evaluate disaster data from Appen.
+
+# Acknowledgements
+
+### Installations
+
+`pip install -r requirements.txt`
 
 ### File in the repository
 
